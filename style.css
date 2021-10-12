@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+.card-title{
+    border: 1px solid black;
+}
+.card-link{
+    border: 1px solid black;
+    border-radius: 10px;
+}
